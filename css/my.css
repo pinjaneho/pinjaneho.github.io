@@ -4,6 +4,12 @@ body{
 .text-primary {
     color: #CD5C5C!important;
 }
+a {
+    color: #CD5C5C;
+}
+.bg-primary {
+    background-color: #CD5C5C!important;
+}
 h1, h2, h3, h4, h5, h6 {
      font-family: 'Noto Sans TC', sans-serif;
 }
