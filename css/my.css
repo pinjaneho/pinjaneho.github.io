@@ -8,8 +8,8 @@ a {
     color: #CD5C5C;
 }
 .bg-primary {
-    background-color: #cc8381!important
-	background-image: ('image/diamond-upholstery.png');
+    background-color: #CD5C5C!important
+	background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
 }
 h1, h2, h3, h4, h5, h6 {
      font-family: 'Noto Sans TC', sans-serif;
