@@ -2,15 +2,15 @@ body{
      font-family: 'Noto Sans TC', sans-serif;
 }
 .text-primary {
-    color: #CD5C5C!important;
+    color: #798A79!important;
 	font-size: 3.5rem;
 }
 a {
-    color: #CD5C5C;
+    color: 	#9DB39D;
 }
 .bg-primary {
-    background-color: #CD5C5C!important;
-	background-image: url("https://www.transparenttextures.com/patterns/diamond-upholstery.png");
+    background-color: #798A79!important;
+	background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
 }
 h1, h2, h3, h4, h5, h6 {
      font-family: 'Noto Sans TC', sans-serif;
