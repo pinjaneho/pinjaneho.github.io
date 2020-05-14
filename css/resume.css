@@ -172,7 +172,7 @@ section.resume-section .resume-item .resume-date {
   font-size: 3.3rem;
 }
 
-.list-inline hover{
+.list-inline:hover{
 	color: #B39DB3;
 }
 a {
