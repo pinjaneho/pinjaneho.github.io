@@ -25,12 +25,12 @@ h1, h2, h3, h4, h5, h6 {
 	color: #B39DB3;
 }
 .milestone {
-	position:relative
+	position:relative;
 }
 .social-icons i:hover{
 	color: #B39DB3;
 }
-h7{
-	text-decoration:underline
+.thirteen {
+	text-decoration:underline;
 	letter-spacing:5px;
 }
