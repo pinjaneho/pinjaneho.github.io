@@ -37,3 +37,16 @@ h1, h2, h3, h4, h5, h6 {
 h3 {
 	white-space:pre;
 }
+.social-icons a {
+  display: inline-block;
+  height: 5rem;
+  width: 5rem;
+  background-color: #798A79;
+  color: #fff !important;
+  background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
+  border-radius: 100%;
+  text-align: center;
+  font-size: 2.3rem;
+  line-height: 3.5rem;
+  margin-right: 1rem;
+}
