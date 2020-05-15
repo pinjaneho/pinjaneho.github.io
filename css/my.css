@@ -52,7 +52,7 @@ h1, h3 {
   margin-right: 1rem;
 }
 .dev-icons {
-  display: inline-block;
+  display: inline;
   height: 3.9rem;
   width: 3.9rem;
   background-color: #798A79;
