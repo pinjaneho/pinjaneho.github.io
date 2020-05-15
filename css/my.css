@@ -22,13 +22,13 @@ h1, h2, h3, h4, h5, h6 {
 	color: #B39DB3;
 }
 .list-inline :hover{
-	background-color: #B39DB3;
+	color: #B39DB3;
 }
 .milestone {
 	position:relative;
 }
 .social-icons i:hover{
-	color: #B39DB3;
+	background-color: #B39DB3;
 }
 .thirteen {
 	letter-spacing:5px;
