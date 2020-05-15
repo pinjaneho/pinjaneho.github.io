@@ -31,6 +31,8 @@ h1, h2, h3, h4, h5, h6 {
 	color: #B39DB3;
 }
 .thirteen {
-	text-decoration:underline;
 	letter-spacing:5px;
+}
+h3 {
+	white-space:pre;
 }
