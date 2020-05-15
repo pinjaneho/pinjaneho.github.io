@@ -51,3 +51,8 @@ h1, h3 {
   line-height: 3.5rem;
   margin-right: 1rem;
 }
+.dev-icons {
+  font-size: 3rem;
+  background-color: #798A79;
+  background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
+}
