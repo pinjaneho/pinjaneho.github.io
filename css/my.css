@@ -12,6 +12,9 @@ a {
     background-color: #798A79!important;
 	background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
 }
+.section{
+	background-image: url("https://www.transparenttextures.com/patterns/natural-paper.png");
+}
 h1, h2, h3, h4, h5, h6 {
      font-family: 'Noto Sans TC', sans-serif;
 }
