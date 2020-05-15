@@ -27,9 +27,5 @@ h1, h2, h3, h4, h5, h6 {
 .frame {  
     height: 160px; 
     width: 160px; 
-    position: relative;
-}
-.child {
-  width: 50%;  
-  padding-bottom: 80%;
+    position: auto;
 }
