@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 .social-icons i:hover{
 	color: #B39DB3;
 }
-h3{
-	text-decoration:overline;
+h7{
+	text-decoration:underline
+	letter-spacing:5px;
 }
