@@ -26,6 +26,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .milestone {
 	position:relative;
+	transform : scale(1.5);
 }
 .social-icons i:hover{
 	background-color: #B39DB3;
