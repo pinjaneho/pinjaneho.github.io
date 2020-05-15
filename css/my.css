@@ -27,12 +27,9 @@ h1, h2, h3, h4, h5, h6 {
 .milestone {
 	position:relative;
 }
-.milestone i:hover{
-	transform : scale(1.5);
-	border-radius : 10%;
-}
 .social-icons a:hover{
 	background-color: #B39DB3;
+	transform : rotate (45deg);
 }
 .thirteen {
 	letter-spacing:5px;
