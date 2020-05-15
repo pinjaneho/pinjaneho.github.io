@@ -30,6 +30,7 @@ h1, h2, h3, h4, h5, h6 {
 .social-icons a:hover{
 	background-color: #B39DB3;
 	transform : rotate (45deg);
+	background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
 }
 .thirteen {
 	letter-spacing:5px;
