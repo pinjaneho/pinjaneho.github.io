@@ -25,6 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 	color: #B39DB3;
 }
 .milestone {
+	margin-right: 0.5rem;
 	position:relative;
 }
 .social-icons a:hover{
@@ -39,8 +40,8 @@ h3 {
 }
 .social-icons a {
   display: inline-block;
-  height: 5rem;
-  width: 5rem;
+  height: 4rem;
+  width: 4rem;
   background-color: #798A79;
   color: #fff !important;
   background-image: url("https://www.transparenttextures.com/patterns/gray-floral.png");
